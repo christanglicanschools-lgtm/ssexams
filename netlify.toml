@@ -1,4 +1,6 @@
 [build]
+  base = "."
+  command = "npm run check"
   publish = "public"
   functions = "netlify/functions"
 [functions]

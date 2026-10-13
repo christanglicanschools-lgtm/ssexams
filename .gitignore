@@ -1,4 +1,5 @@
 DONT_PUSH/
 .env
+.env.*
 .netlify/
 node_modules/
