@@ -1,0 +1,4 @@
+DONT_PUSH/
+.env
+.netlify/
+node_modules/

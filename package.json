@@ -1,0 +1,1 @@
+{"name":"cacg-assessment-pwa","private":true,"version":"2.0.0","scripts":{"test":"node --test DONT_PUSH/tests/*.test.cjs"},"engines":{"node":">=20"}}
